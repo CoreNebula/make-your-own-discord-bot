@@ -7,5 +7,5 @@ If so, I got you covered. Through this tutorial you will be learn how to setup a
 __If you end up liking this tutorial and/or the template bot that I made, please consider donating on my [Patreon](https://patreon.com/corenebula)__
 
 ## Prerequisites (What You Need)
-- [ ] A Discord Account
+- [X] A Discord Account
 
