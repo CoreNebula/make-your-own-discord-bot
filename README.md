@@ -9,5 +9,5 @@ __If you end up liking this tutorial and/or the template bot that I made, please
 ## Prerequisites (What You Need)
 - [X] A Discord Account
 - [X] A Computer Running Windows or MacOS
-The Discord account is kind of a given, but in order to run your bot you will need a computer. Windows and MacOS will both work, but as far as linux distributions go I am not sure. As long as you can install and use Node.js you should be fine.
+\nThe Discord account is kind of a given, but in order to run your bot you will need a computer. Windows and MacOS will both work, but as far as linux distributions go I am not sure. As long as you can install and use Node.js you should be fine.
 
