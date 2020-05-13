@@ -1,4 +1,4 @@
-# Make Your Own Discord Bot
+<h1 class='center'>Make Your Own Discord Bot</h1>
 *"A template for a discord bot using discord.js".*
 
 Do you want to make your own personalized Discord bot, but dont know how or where to start?
