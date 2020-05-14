@@ -1,4 +1,4 @@
-<h1 align='center' style='color:blue;'>Make Your Own Discord Bot</h1>
+<h1 align='center' style='color:blue'>Make Your Own Discord Bot</h1>
 <p align='center'><i>"A template for a discord bot using discord.js".</i></p>
 
 <p align='center'>Do you want to make your own personalized Discord bot, but dont know how or where to start?<br>
