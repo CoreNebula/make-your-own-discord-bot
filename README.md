@@ -18,7 +18,7 @@ While knowledge of coding is not required, some very basic knowledge of javascri
 The Discord account is kind of a given, but in order to run your bot you will need a computer. Windows and MacOS will both work, but as far as linux distributions go I am not sure. As long as you can install and use Node.js you should be fine.
 
 ## Making a Discord Application
-![Discord Developer Portal](https://www.dropbox.com/s/fpawj3s4m6o6o2m/IMG_0726.JPG?dl=0)
+![Discord Developer Portal](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0726.JPG?raw=true)
 Head over to the [Discord Developer Portal](https://discordapp.com/developers/applications) and under applications, create a new application. Creating this application is what allows you to connect your bot to Discord servers. You can give your application a name, which I would recommend being the same name you want to use for your bot.
 
 
