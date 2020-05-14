@@ -4,7 +4,7 @@
 <p align='center'>Do you want to make your own personalized Discord bot, but dont know how or where to start?<br>
 If so, I've got you covered. Through this tutorial you will be learn how to setup and customize your own discord bot.</p> 
 
-<p align='center'><b>If you end up liking this tutorial and/or the template bot that I made, please consider donating on my [Patreon](https://patreon.com/corenebula)</b></p>
+<p align='center'><b>If you end up liking this tutorial and/or the template bot that I made, please consider donating on my <a href='https://patreon.com/corenebula'>Patreon</a></b></p>
 
 ## Prerequisites (What You Need)
 - [X] A Discord Account
