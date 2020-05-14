@@ -28,5 +28,5 @@ Head over to the [Discord Developer Portal](https://discordapp.com/developers/ap
 ![Add a Bot](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0729.JPG?raw=true)
 
 ## Getting Yor Bot's Token
-![Bot Token}(https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0726.JPG?raw=true)
+![Bot Token}(https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0727.JPG?raw=true)
 
