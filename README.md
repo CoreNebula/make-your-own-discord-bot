@@ -19,5 +19,6 @@ The Discord account is kind of a given, but in order to run your bot you will ne
 
 ## Step One - Making a Discord Application
 ![Discord Developer Portal](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2019/10/157231247905-dev-dashboard-1024x420.png)
-Head over to the [Discord Developer Portal](https://discordapp.com/developers/applications) and create a new application.
+Head over to the [Discord Developer Portal](https://discordapp.com/developers/applications) and under applications, create a new application.
+
 Creating this application is what allows you to connect your bot to Discord servers.
