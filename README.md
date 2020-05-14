@@ -19,9 +19,9 @@ The Discord account is kind of a given, but in order to run your bot you will ne
 
 ## Making a Discord Application
 ![Discord Developer Portal](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0726.JPG?raw=true)
-<br>
+
 Head over to the [Discord Developer Portal](https://discordapp.com/developers/applications) and under applications, create a new application. Creating this application is what allows you to connect your bot to Discord servers. You can give your application a name, which I would recommend being the same name you want to use for your bot.
-<br>
+
 ![App Name](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0728.JPG?raw=true)
 
 ## Adding a Bot User
