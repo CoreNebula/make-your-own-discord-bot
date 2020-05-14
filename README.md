@@ -10,7 +10,7 @@ If so, I've got you covered. Through this tutorial you will be learn how to setu
 - [X] A Discord Account
 - [X] A Computer Running Windows or MacOS
 
-While knowledge of coding is not required, some very basic knowledge of javascript will be helfull if you
+> While knowledge of coding is not required, some very basic knowledge of javascript will be helfull if you
 
 The Discord account is kind of a given, but in order to run your bot you will need a computer. Windows and MacOS will both work, but as far as linux distributions go I am not sure. As long as you can install and use Node.js you should be fine.
 
