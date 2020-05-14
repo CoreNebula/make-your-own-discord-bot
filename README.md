@@ -24,4 +24,4 @@ Head over to the [Discord Developer Portal](https://discordapp.com/developers/ap
 
 
 ## Adding a Bot User
-![Add a Bot](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2019/10/157231283207-overview-greeter-1024x645.png)
+![Add a Bot](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0729.JPG?raw=true)
