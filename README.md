@@ -7,13 +7,13 @@ Please refer to  the [Wiki](https://github.com/CoreNebula/make-your-own-discord-
 
 ## Prerequisites (What You Need)
 
-- [X] A Discord Account
-- [X] An Internet Connection
-- [X] A Computer Running Windows, MacOS, or Linux
+- A Discord Account
+- An Internet Connection
+- A Computer Running Windows, MacOS, or Linux
 
 ## Make a Discord Application
 
-Go to the [Discord Developer Portal]() and create a new application.
+Go to the [Discord Developer Portal](https://discordapp.com/developers/applications) and create a new application.
 
 ## Add a Bot User
 
@@ -25,7 +25,7 @@ Copy your bot's token and save it for later.
 
 ## Intstall Node
 
-Go to the [Node.js website](), and download and install Node.js for your operating system.
+Go to the [Node.js website](https://nodejs.org/en/download/), and download and install Node.js for your operating system.
 
 ## Download My Bot Template.
 
