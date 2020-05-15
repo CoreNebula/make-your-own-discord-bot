@@ -21,7 +21,7 @@ The Discord account and internet are kind of givens, but in order to run your bo
 ## Making a Discord Application
 ![Discord Developer Portal](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0726.JPG?raw=true)
 
-Head over to the [Discord Developer Portal](https://discordapp.com/developers/applications) and under applications, create a new application. Creating this application is what allows us to connect the bot to Discord servers. You can give your application a name, which I would recommend being the same name you want to use for your bot.
+First, we need to head over to the [Discord Developer Portal](https://discordapp.com/developers/applications) and under applications, create a new application. Creating this application is what allows us to connect the bot to Discord servers. You can give your application a name, which I would recommend being the same name you want to use for your bot.
 
 ![App Name](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0728.JPG?raw=true)
 
@@ -39,4 +39,13 @@ In the bot tab, there is now a bot token underneath the bot name. You can click 
 
 ## Intstalling Node
 ![Node](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0730.JPG?raw=true)
+
+Now, we need to go to the [Node.js website](https://nodejs.org/en/download/) and download Node.js. On the wbsite select your operating system and download the installer. Once downloaded run the installer and wait for it to finish.
+
+Node.js is an asynchronous, event-driven JavaScript runtime that was made to build scalable network applications. For example a Discord bot.
+
+Basically, Node allows us to easily connect our bot's code to the Discord application we created. It's almost like putting the bot's brain in its body.
+
+## Downloading My Bot Template.
+![Github Download]()
 
