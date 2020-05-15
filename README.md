@@ -49,3 +49,5 @@ Basically, Node allows us to easily connect our bot's code to the Discord applic
 ## Downloading My Bot Template.
 ![Github Download]()
 
+In GitHub (on this site) click on "Clone Or Downlod" and then "Download Zip". While the file is downloading you can create a new folder on your computer, wherever you want your bot to be. This folder will be your project folder. Once the file has finished downloading, unzip and extract the files to your project folder.
+
