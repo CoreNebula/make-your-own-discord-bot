@@ -47,7 +47,7 @@ Node.js is an asynchronous, event-driven JavaScript runtime that was made to bui
 Basically, Node allows us to easily connect our bot's code to the Discord application we created. It's almost like putting the bot's brain in its body.
 
 ## Downloading My Bot Template.
-![Github Download]()
+![Github Download](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0731.JPG?raw=true)
 
 In GitHub (on this site) click on "Clone Or Downlod" and then "Download Zip". While the file is downloading you can create a new folder on your computer, wherever you want your bot to be. This folder will be your project folder. Once the file has finished downloading, unzip and extract the files to your project folder.
 
