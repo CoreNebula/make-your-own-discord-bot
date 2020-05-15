@@ -27,6 +27,12 @@ Head over to the [Discord Developer Portal](https://discordapp.com/developers/ap
 ## Adding a Bot User
 ![Add a Bot](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0729.JPG?raw=true)
 
+In the left menu select the Bot tab and then click on add a bot user. The bot user is the actual bot that you will interact with in Discord. You can now give your bot a name. This is the name that will be displayed in Dicord.
+
+If you want you can add your own profile image for the bot, but it is not required.
+
 ## Getting Yor Bot's Token
 ![Bot Token}(https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0727.JPG?raw=true)
+
+In the bot tab, there is now a bot token underneath the bot name. You can click to reveal the token and copy it, or just click on "Copy Token".
 
