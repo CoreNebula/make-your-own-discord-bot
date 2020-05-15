@@ -11,16 +11,17 @@ If so, I've got you covered. Through this tutorial you will be learn how to setu
 ## Prerequisites (What You Need)
 
 - [X] A Discord Account
+- [X] An Internet Connection
 - [X] A Computer Running Windows or MacOS
 
 While knowledge of coding is not required, some very basic knowledge of javascript will be helfull if you want really use the full potential of your bot.
 
-The Discord account is kind of a given, but in order to run your bot you will need a computer. Windows and MacOS will both work, but as far as linux distributions go I am not sure. As long as you can install and use Node.js you should be fine.
+The Discord account and internet are kind of givens, but in order to run your bot you will need a computer. Windows and MacOS will both work, but as far as linux distributions go I am not sure. As long as you can install and use Node.js you should be fine.
 
 ## Making a Discord Application
 ![Discord Developer Portal](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0726.JPG?raw=true)
 
-Head over to the [Discord Developer Portal](https://discordapp.com/developers/applications) and under applications, create a new application. Creating this application is what allows you to connect your bot to Discord servers. You can give your application a name, which I would recommend being the same name you want to use for your bot.
+Head over to the [Discord Developer Portal](https://discordapp.com/developers/applications) and under applications, create a new application. Creating this application is what allows us to connect the bot to Discord servers. You can give your application a name, which I would recommend being the same name you want to use for your bot.
 
 ![App Name](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0728.JPG?raw=true)
 
@@ -32,7 +33,10 @@ In the left menu select the Bot tab and then click on add a bot user. The bot us
 If you want you can add your own profile image for the bot, but it is not required.
 
 ## Getting Yor Bot's Token
-![Bot Token}(https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0727.JPG?raw=true)
+![Bot Token](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0727.JPG?raw=true)
 
-In the bot tab, there is now a bot token underneath the bot name. You can click to reveal the token and copy it, or just click on "Copy Token".
+In the bot tab, there is now a bot token underneath the bot name. You can click to reveal the token and copy it, or just click on "Copy". We will need this token later so you don't need to copy it now, but keep the tab open so you can copy it when we need it.
+
+## Intstalling Node
+
 
