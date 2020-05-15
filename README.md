@@ -30,3 +30,11 @@ Go to the [Node.js website](https://nodejs.org/en/download/), and download and i
 ## Download My Bot Template.
 
 Download the latest [release](https://github.com/CoreNebula/make-your-own-discord-bot/releases) of my bot template from this repository
+
+## Add Your Token
+
+In the template add your token to the config.json file.
+
+## Further Instructions
+
+For further instructions on using your bot, please refer to the [Wiki]()
