@@ -3,7 +3,7 @@
 
 <p align='center'><b>If you end up liking this tutorial and/or the template bot that I made, please consider donating on my <a href='https://patreon.com/corenebula'>Patreon</a></b></p>
 
-Please refer to  the [Wiki](https://github.com/CoreNebula/make-your-own-discord-bot/wiki) for more in depth instructions.
+## Please refer to  the [Wiki](https://github.com/CoreNebula/make-your-own-discord-bot/wiki) for more in depth instructions.
 
 ## Prerequisites (What You Need)
 
