@@ -38,5 +38,5 @@ If you want you can add your own profile image for the bot, but it is not requir
 In the bot tab, there is now a bot token underneath the bot name. You can click to reveal the token and copy it, or just click on "Copy". We will need this token later so you don't need to copy it now, but keep the tab open so you can copy it when we need it.
 
 ## Intstalling Node
-
+![Node](https://github.com/CoreNebula/make-your-own-discord-bot/blob/master/tutorial-images/IMG_0730.JPG?raw=true)
 
