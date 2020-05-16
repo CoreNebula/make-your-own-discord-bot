@@ -1,0 +1,21 @@
+{
+  "name": "template-bot",
+  "version": "1.0.0",
+  "description": "Template Discord bot using Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "make-your-own-discord-bot",
+    "template-discord-bot"
+  ],
+  "author": "Core Nebula",
+  "homepage": "https://github.com/CoreNebula/make-your-own-discord-bot/wiki",
+  "repository": "https://github.com/CoreNebula/make-your-own-discord-bot",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
