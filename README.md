@@ -37,4 +37,4 @@ In the template add your token to the config.json file.
 
 ## Further Instructions
 
-For further instructions on using your bot, please refer to the [Wiki]()
+For further instructions on using your bot, please refer to the [Wiki](https://github.com/CoreNebula/make-your-own-discord-bot/wiki)
